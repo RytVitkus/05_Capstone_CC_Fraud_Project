@@ -63,6 +63,6 @@ As with any project, there's always room for improvment, and often times inspira
 
 # 5. Additional Resources:
 
-1. Presentation: https://docs.google.com/presentation/d/1vu8jTozKvblCA7SncaJ3OT4yw4tEImS1eL4M3OClI2c/edit?usp=sharing
+1. Presentation: https://docs.google.com/presentation/d/1Ep_R679GjKsvRSC8PvpxKrtvk5Sj9M1PrTX8boa8Zpc/edit?usp=sharing
 2. Kaggle Competition Data: https://www.kaggle.com/mlg-ulb/creditcardfraud/
 3. SMOTE/ADASYN Resource: https://www.datasciencecentral.com/profiles/blogs/handling-imbalanced-data-sets-in-supervised-learning-using-family
